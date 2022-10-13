@@ -1,6 +1,0 @@
-framework module Pods_PPnoStoryboardsTests {
-  umbrella header "Pods-PPnoStoryboardsTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
